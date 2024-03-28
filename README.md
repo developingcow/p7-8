@@ -2,6 +2,12 @@
 
 Group Member: Hong
 
+Source for demo app: https://github.com/tastejs/todomvc  
+
+# Diagram
+![Cloud Architecture (1)](https://github.com/developingcow/p7-8/assets/155276353/158ecdca-879e-4883-bba2-e842ef0a4f21)
+
+
 # Setup
 Prereq: Helm, aws cli, kubectl
 ## EKS Cluster
